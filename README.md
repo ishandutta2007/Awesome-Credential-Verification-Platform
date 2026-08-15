@@ -1,6 +1,6 @@
 # Awesome-Credential-Verification-Platform
 
-# Top Credential Verification Platform Tools Ecosystem
+## Top Credential Verification Platform Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Verifiable Credentials, Digital Badges, Decentralized Identity, SSI, Open Badges & Tamper-Evident Credential Issuance/Verification*
 **Last updated: August 2026**
